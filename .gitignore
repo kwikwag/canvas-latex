@@ -1,5 +1,6 @@
 reports/
-dist/
+/dist/*
+!/dist/canvas-latex.js
 tests_output/
 *.log
 **/.DS_Store
